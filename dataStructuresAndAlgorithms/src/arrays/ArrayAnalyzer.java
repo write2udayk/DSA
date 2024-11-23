@@ -1,4 +1,4 @@
-package datastructuresandalgorithms;
+package arrays;
 /**
  *
  * ArrayAnalyzer provides methods to analyze arrays, such as counting
