@@ -27,6 +27,8 @@ public class SumOfNumbers {
 
         System.out.println("Sum of numbers up to " + start + ": " +
                 calculateSum(start, end));
+        
+        s.close();
     }
 
     /**

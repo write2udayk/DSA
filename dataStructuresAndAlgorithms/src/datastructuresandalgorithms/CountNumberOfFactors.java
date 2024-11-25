@@ -21,6 +21,7 @@ public class CountNumberOfFactors {
 
         int divisorCount = countDivisors(number);
         System.out.println("Total number of factors: " + divisorCount);
+        s.close();
     }
 
     /**

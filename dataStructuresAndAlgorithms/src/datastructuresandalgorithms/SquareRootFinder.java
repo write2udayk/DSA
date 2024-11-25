@@ -21,9 +21,9 @@ public class SquareRootFinder {
 	public static int squareroot(int n) {
 		for (int i = 1; i <= n; i++) {
 			if (i * i == n) {
-				return i; // Return the square root if found
+				return i; 
 			}
 		}
-		return -1; // Return -1 if n is not a perfect square
+		return -1; 
 	}
 }
